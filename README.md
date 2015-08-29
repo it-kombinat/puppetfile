@@ -1,2 +1,1 @@
-# puppetfile
-# for lab work
+#puppetfile
