@@ -1,4 +1,4 @@
-#puppetfile config
+#r10k config
 
 * /etc/puppetlabs/r10k/r10k.yaml
 ```
