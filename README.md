@@ -1,6 +1,6 @@
 #puppetfile config
 
-*/etc/puppetlabs/r10k/r10k.yaml
+* /etc/puppetlabs/r10k/r10k.yaml
 ```
 # The location to use for storing cached Git repos
 :cachedir: '/var/cache/r10k'
