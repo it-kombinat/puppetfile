@@ -3,7 +3,7 @@ forge "http://forge.puppetlabs.com"
 # Modules from Puppet Forge
 mod "puppetlabs-stdlib"
 
-mod "puppetlabs-ntp"
+mod "puppetlabs-ntp",
     :git => 'https://github.com/puppetlabs/puppetlabs-ntp.git',
     :branch => '4.1.2'
 
