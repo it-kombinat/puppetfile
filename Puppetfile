@@ -2,6 +2,9 @@ forge "http://forge.puppetlabs.com"
 
 # Modules from Puppet Forge
 mod "puppetlabs-stdlib"
+mod "puppetlabs-concat",
+    :git => 'https://github.com/puppetlabs/puppetlabs-concat.git',
+    :tag => '2.1.0'
 
 mod "puppetlabs-ntp",
     :git => 'https://github.com/puppetlabs/puppetlabs-ntp.git',
