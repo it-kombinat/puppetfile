@@ -10,7 +10,7 @@ mod "puppetlabs-ntp",
     :git => 'https://github.com/puppetlabs/puppetlabs-ntp.git',
     :branch => '4.1.2'
 mod "hardening-hardening_stdlib"
-mod "duritong-sysctl"
+mod "thias-sysctl"
 mod "hardening-os_hardening"
 mod "saz-ssh"
 mod "hardening-ssh_hardening"
