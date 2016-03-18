@@ -11,6 +11,7 @@ mod "puppetlabs-ntp",
     :branch => '4.1.2'
 mod "hardening-hardening_stdlib"
 mod "hardening-os_hardening"
+mod "saz-ssh"
 mod "hardening-ssh_hardening"
 #mod "puppet_profiles",
 #   :git => "git@github.com:dennisme/puppet_profiles.git"
